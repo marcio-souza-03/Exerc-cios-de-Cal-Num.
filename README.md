@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Márcio" height="30" width="40" src="<endereço da imagem>">
+  <img align="center" alt="Márcio Souza" height="30" width="40" src="<endereço da imagem>">
  </div>
 <div align="center" style="display: inline_block"><br> 
 </div>
